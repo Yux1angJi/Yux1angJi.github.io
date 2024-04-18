@@ -1,15 +1,15 @@
 # Site settings
-title: A.P
-baseurl: "/ap"
-url: "https://kssim.github.io"
+title: Yuxiang Ji
+baseurl: "/yuxiangji"
+url: "https:yux1angji.github.io/"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
-  selfie: assets/img/profile.jpg
+  name: Yuxiang Ji
+  desc: Hello nice to meet you!
+  email: Yux1angJi@outlook.com
+  selfie: assets/img/jyx.jpg
 
 # social
 social:
@@ -17,13 +17,13 @@ social:
   behance:
   bitbucket:
   dribbble:
-  facebook: Test
+  facebook:
   flickr:
-  github: kssim
-  google_plus:
+  github:
+  google_plus: Yux1angJi
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -31,11 +31,12 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter:
   vimeo:
   wordpress:
   youtube:
   default_txt: "Follow On"
+  orcid: https://orcid.org/0009-0005-8802-7535
 
 # Build settings
 markdown: kramdown

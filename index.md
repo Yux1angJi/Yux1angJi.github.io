@@ -3,24 +3,27 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
+Hi, there! I am currently study as a Ph.D. student in Xiamen University. 
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+# Education
+* University of Birmingham *(2021 - 2022)*
+  * **M.S.** in Artificial Intelligence and Machine Learning
+  * Distinction - (77%)
+* Northwest University *(2017 - 2021)*
+  * **B.S.** in Electronic Information Science and Technology
+  * Upper Second-Class Honours
+
+<br/>
+
+# Work Experience
+* Huawei *(2022 - 2023)*
+  * AI Engineer
+* ByteDance *(2020 - 2021)*
+  * R&D Intern
 
 <br/>
 
 # Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+I am interested in  
