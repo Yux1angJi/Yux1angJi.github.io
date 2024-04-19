@@ -48,6 +48,7 @@ sass:
 # Gems
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # Permalinks
 permalink: /:year-:month-:day/:title
