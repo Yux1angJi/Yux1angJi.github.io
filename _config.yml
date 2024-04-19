@@ -7,7 +7,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 # Author
 author:
   name: Yuxiang Ji
-  desc: Hello nice to meet you!
+  desc: Nice to meet you!
   email: Yux1angJi@outlook.com
   selfie: assets/img/jyx_600.jpg
 
@@ -19,8 +19,8 @@ social:
   dribbble:
   facebook:
   flickr:
-  github:
-  google_plus: Yux1angJi
+  github: Yux1angJi
+  google_plus:
   instagram:
   keybase:
   linkedin:
@@ -36,7 +36,6 @@ social:
   wordpress:
   youtube:
   default_txt: "Follow On"
-  orcid: https://orcid.org/0009-0005-8802-7535
 
 # Build settings
 markdown: kramdown
@@ -52,7 +51,7 @@ plugins:
 
 # Permalinks
 permalink: /:year-:month-:day/:title
-paginate_path: "/portfolio/page:num/"
+# paginate_path: "/portfolio/page:num/"
 paginate: 5
 exclude:
   - "Gemfile"

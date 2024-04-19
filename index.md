@@ -9,21 +9,25 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 
 <br/>
 
+# News
+
+<br/>
+
 # Education
-* University of Birmingham *(2021 - 2022)*
-  * **M.S.** in Artificial Intelligence and Machine Learning
+* University of Birmingham
+  * **M.S.** in Artificial Intelligence and Machine Learning, *2021 - 2022*
   * Distinction - (77%)
-* Northwest University *(2017 - 2021)*
-  * **B.Eng.** in Electronic Information Science and Technology
+* Northwest University
+  * **B.Eng.** in Electronic Information Science and Technology, *2017 - 2021*
   * Upper Second-Class Honours
 
 <br/>
 
 # Work Experience
-* Huawei *(2022 - 2023)*
-  * AI Engineer
-* ByteDance *(2020 - 2021)*
-  * R&D Intern
+* Huawei
+  * AI Engineer, *2022 - 2023*
+* ByteDance
+  * R&D Intern, *2020 - 2021*
 
 <br/>
 
@@ -32,6 +36,3 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 * 2020 Nov: Silver Medal in 2020 China Collegiate Programming Contest, Mianyang Site
 
 <br/>
-
-# Interests
-I am interested in 
