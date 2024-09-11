@@ -8,7 +8,7 @@ layout: about
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
 Hi, there! I am Yuxiang Ji (姬煜翔).
 I currently study as a Ph.D. student in Xiamen University, supervised by Prof. Liaoni Wu, and Prof. Yancheng You.
-I am interested with computer vision and multimodal research for UAVs, especially generation and utilization of synthetic images.
+I am interested with computer vision and multimodal research for UAVs, especially the generation and utilization of synthetic images.
 I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof. Shuo Wang.
 </span>
 
@@ -42,7 +42,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
     <img src="assets/img/ddt.png" alt="DDT" width="150" height="70">
     <div style="margin-left: 20px;">
         <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
-        <div class="custom-text">BoyongHe*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
+        <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
         <div class="custom-text"><em>ACM Multimedia (MM)</em>, 2024</div>
     </div>
 </div>
