@@ -2,18 +2,51 @@
 layout: about 
 ---
 
+
+
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-Hi, there! I currently study as a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof Yancheng You.
-I am interested with generation and utilization of synthetic images.
-I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof Shuo Wang.
+Hi, there! I am Yuxiang Ji (姬煜翔).
+I currently study as a Ph.D. student in Xiamen University, supervised by Prof. Liaoni Wu, and Prof. Yancheng You.
+I am interested with computer vision and multimodal research for UAVs, especially generation and utilization of synthetic images.
+I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof. Shuo Wang.
 </span>
 
 <br/>
 
-# News
+# Publications
 
-<br/>
+<!-- <div class="publications-container"> -->
+<div style="display: flex; align-items: center; margin-bottom: 20px">
+    <img src="assets/img/GTA-UAV-demo.png" alt="Game4Loc" width="150" height="80">
+    <div style="margin-left: 20px;">
+        <h4>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h4>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
+        <div class="custom-text"><em>Under Review</em></div>
+        <div class="custom-text"><a href="https://yux1angji.github.io/game4loc"> [Project]</a> | <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a></div>
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px">
+    <img src="assets/img/diff.jpg" alt="DIFF" width="150" height="70">
+    <div style="margin-left: 20px;">
+        <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, ChuanQin, Liaoni Wu</div>
+        <div class="custom-text"><em>Under Review</em></div>
+        <div class="custom-text"><a href="https://arxiv.org/abs/2406.00777">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/DIFF">[Github]</a></div>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px">
+    <img src="assets/img/ddt.png" alt="DDT" width="150" height="70">
+    <div style="margin-left: 20px;">
+        <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
+        <div class="custom-text">BoyongHe*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
+        <div class="custom-text"><em>ACM Multimedia (MM)</em>, 2024</div>
+    </div>
+</div>
+<!-- </div> -->
 
 # Education
 
@@ -40,17 +73,19 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 
 <table>
     <tr>
-        <td style="vertical-align: middle; padding-right: 30px;"><img src="assets/img/huawei.png" alt="Huawei LOGO" width="60px" /></td>
-        <td style="vertical-align: middle;">
+        <td style="vertical-align: middle; padding-right: 30px; padding-bottom: 20px;"><img src="assets/img/huawei.png" alt="Huawei LOGO" width="60px" /></td>
+        <td style="vertical-align: middle; ">
             <a href="https://www.huawei.com/en/" target="_blank" style="text-decoration: underline;"><strong>Huawei</strong></a><br>
-            AI Engineer, <i>Nov 2022 - Aug 2023</i>
+            AI Engineer, <i>Nov 2022 - Aug 2023</i><br>
+            Camera AI algorithm, model compression
         </td>
     </tr>
     <tr>
         <td style="vertical-align: middle; padding-right: 30px;"><img src="assets/img/bytedance.svg" alt="ByteDance LOGO" width="60px" /></td>
         <td style="vertical-align: middle;">
             <a href="https://www.bytedance.com/en/" target="_blank" style="text-decoration: underline;"><strong>ByteDance</strong></a><br>
-            R&D Intern, <i>Jun 2020 - Jan 2021</i>
+            R&D Intern, <i>Jun 2020 - Jan 2021</i><br>
+            Back-end development, big data
         </td>
     </tr>
 </table>

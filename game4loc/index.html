@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <!-- Meta tags for social media banners, these should be filled in appropriatly as they are your "business card" -->
+  <!-- Replace the content tag with appropriate information -->
+  <meta name="description" content="Game4Loc">
+  <meta property="og:title" content="Game4Loc"/>
+  <meta property="og:description" content="Game4Loc"/>
+  <meta property="og:url" content="URL OF THE WEBSITE"/>
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
+  <!-- <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image:width" content="1200"/>
+  <meta property="og:image:height" content="630"/> -->
+
+
+  <meta name="twitter:title" content="Game4Loc">
+  <meta name="twitter:description" content="Game4Loc">
+  <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
+  <!-- <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:card" content="summary_large_image"> -->
+  <!-- Keywords for your paper to be indexed by-->
+  <meta name="keywords" content="Game4Loc">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</title>
+  <link rel="icon" type="image/x-icon" href="static/images/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+  rel="stylesheet">
+
+  <link rel="stylesheet" href="static/css/bulma.min.css">
+  <link rel="stylesheet" href="static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+  <script defer src="static/js/fontawesome.all.min.js"></script>
+  <script src="static/js/bulma-carousel.min.js"></script>
+  <script src="static/js/bulma-slider.min.js"></script>
+  <script src="static/js/index.js"></script>
+</head>
+<body>
+
+
+  <section class="hero">
+    <div class="hero-body">
+      <div class="container is-max-desktop">
+        <div class="columns is-centered">
+          <div class="column has-text-centered">
+            <h1 class="title is-1 publication-title">Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h1>
+            <div class="is-size-5 publication-authors">
+              <!-- Paper authors -->
+              <span class="author-block">
+                <a href="https://yux1angji.github.io/" target="_blank">Yuxiang Ji</a><sup>*</sup>,</span>
+                <span class="author-block">
+                  Boyong He<sup>*</sup>,</span>
+                  <span class="author-block">
+                    Zhuoyue Tan,</span>
+                    <span class="author-block">
+                      Liaoni Wu
+                    </span>
+                  </div>
+
+                  <div class="is-size-5 publication-authors">
+                    <span class="author-block">Xiamen University</span>
+                    <span class="eql-cntrb"><small><br><sup>*</sup>Indicates Equal Contribution</small></span>
+                  </div>
+
+                  <div class="column has-text-centered">
+                    <div class="publication-links">
+                         <!-- Arxiv PDF link -->
+                      <!-- <span class="link-block">
+                        <a href="https://arxiv.org/pdf/<ARXIV PAPER ID>.pdf" target="_blank"
+                        class="external-link button is-normal is-rounded is-dark">
+                        <span class="icon">
+                          <i class="fas fa-file-pdf"></i>
+                        </span>
+                        <span>Paper</span>
+                      </a>
+                    </span> -->
+
+                    <!-- Supplementary PDF link -->
+                    <!-- <span class="link-block">
+                      <a href="static/pdfs/supplementary_material.pdf" target="_blank"
+                      class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>Supplementary</span>
+                    </a>
+                  </span> -->
+
+                  <!-- Github link -->
+                  <span class="link-block">
+                    <a href="https://github.com/Yux1angJi/GTA-UAV" target="_blank"
+                    class="external-link button is-normal is-rounded is-dark">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Code</span>
+                  </a>
+                </span>
+
+                <!-- ArXiv abstract Link -->
+                <!-- <span class="link-block">
+                  <a href="https://arxiv.org/abs/<ARXIV PAPER ID>" target="_blank"
+                  class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                    <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Teaser video-->
+<section class="hero teaser">
+  <div class="container is-max-desktop" style="text-align: center;">
+    <div class="hero-body">
+      <video poster="" id="tree" autoplay controls muted loop style="width: 80%; height: 80%">
+        <!-- Your video here -->
+        <source src="static/videos/trajectory_demo_compress.mp4"
+        type="video/mp4">
+      </video>
+      <h2 class="subtitle has-text-centered">
+        Localization in flight trajectory after pre-trained on GTA-UAV dataset.
+      </h2>
+    </div>
+  </div>
+</section>
+<!-- End teaser video -->
+
+<!-- Paper abstract -->
+<section class="section hero is-light">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            The vision-based geo-localization technology for UAV, serving as a secondary source of GPS information in addition to
+            the global navigation satellite systems (GNSS), can still operate independently when communication with the external
+            environment is cut off. Recent deep learning based methods
+            attribute this as the task of image matching and retrieval. By
+            retrieving drone-view images in satellite image database with
+            GPS information tagged, approximate localization information can be obtained. However, due to high costs and privacy
+            concerns, it is usually difficult to obtain large quantities of
+            drone-view images from a continuous area. Existing droneview datasets are mostly composed of small-scale aerial photography with a strong assumption that there exists a perfect
+            one-to-one aligned reference image for any query, leaving
+            a significant gap from the practical localization scenario. In
+            this work, we construct a large-range contiguous area UAV
+            geo-localization dataset named GTA-UAV, featuring multiple flight altitudes, attitudes, scenes, and targets using modern
+            computer games. Based on this dataset, we introduce a more
+            practical UAV geo-localization task including partial matches
+            of cross-view paired data, and expand the image-level retrieval to the actual localization in terms of distance (meters). For the construction of drone-view and satellite-view
+            pairs, we adopt a weight-based contrastive learning approach,
+            which allows for effective learning while avoiding additional
+            post-processing matching steps. Experiments demonstrate the
+            effectiveness of our data and training method for UAV geolocalization, as well as the generalization capabilities to realworld scenarios.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- End paper abstract -->
+
+
+<section class="section hero is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">GTA-UAV Dataset</h2>
+        <div class="container_data_construct">
+          <img src="static/images/GTA-UAV-data-construction.jpg"  alt="MY ALT TEXT"/>
+          <!-- <figcaption style="font-size: 80%; font-weight: bold; color: #111111; text-align: center;">GTA-UAV dataset construction</figcaption> -->
+        </div>
+        <div class="content has-text-justified">
+          The paired data construction process of GTA-UAV, where Positive and Semi-positive satellite-view are paired with Drone-view by IOU.
+        </div>
+        <br>
+        <div class="container_match_paradigm">
+        <img src="static/images/match_paradigm.jpg"  alt="MY ALT TEXT"/></div>
+        <br>
+        <div class="content has-text-justified">
+          Unlike the aligned one-to-one retrieval strong assumption of existing datasets, we do not center-align the drone-satellite pairs. 
+          Instead, we use a collect-then-match approach, pairing them by calculating the overlapping of the ground area covered by the two views. 
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section hero is-small">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Methodology</h2>
+        <div class="container_data_construct">
+          <img src="static/images/pipeline.jpg"  alt="MY ALT TEXT"/>
+          <!-- <figcaption style="font-size: 80%; font-weight: bold; color: #111111; text-align: center;">GTA-UAV dataset construction</figcaption> -->
+        </div>
+        <div class="content has-text-justified">
+          The overview of proposed training and inference pipeline. 
+          (left) We use ViT as feature encoder and weighted-InfoNCE for training positive and semi-positive batched samples from mutually exclusive sampling. 
+          (right) Then the retrieval could be based on discriminative features to achieve localization.
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- Image carousel -->
+<!-- <section class="hero is-small">
+  <div class="hero-body">
+    <div class="container">
+      <div id="results-carousel" class="carousel results-carousel">
+       <div class="item"> -->
+        <!-- Your image here -->
+        <!-- <img src="static/images/carousel1.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          First image description.
+        </h2>
+      </div>
+      <div class="item"> -->
+        <!-- Your image here -->
+        <!-- <img src="static/images/carousel2.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+          Second image description.
+        </h2>
+      </div>
+      <div class="item"> -->
+        <!-- Your image here -->
+        <!-- <img src="static/images/carousel3.jpg" alt="MY ALT TEXT"/>
+        <h2 class="subtitle has-text-centered">
+         Third image description.
+       </h2>
+     </div>
+     <div class="item"> -->
+      <!-- Your image here -->
+      <!-- <img src="static/images/carousel4.jpg" alt="MY ALT TEXT"/>
+      <h2 class="subtitle has-text-centered">
+        Fourth image description.
+      </h2>
+    </div>
+  </div>
+</div>
+</div>
+</section> -->
+<!-- End image carousel -->
+
+
+
+
+
+
+
+<!-- Paper poster -->
+<!-- <section class="hero is-small is-light">
+  <div class="hero-body">
+    <div class="container">
+      <h2 class="title">Poster</h2>
+
+      <iframe  src="static/pdfs/sample.pdf" width="100%" height="550">
+          </iframe>
+        
+      </div>
+    </div>
+  </section> -->
+<!--End paper poster -->
+
+
+<!--BibTex citation -->
+  <!-- <section class="section" id="BibTeX">
+    <div class="container is-max-desktop content">
+      <h2 class="title">BibTeX</h2>
+      <pre><code>BibTex Code Here</code></pre>
+    </div>
+</section> -->
+<!--End BibTex citation -->
+
+
+  <footer class="footer">
+  <div class="container">
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+
+          <p>
+            This page was built using the <a href="https://github.com/eliahuhorwitz/Academic-project-page-template" target="_blank">Academic Project Page Template</a> which was adopted from the <a href="https://nerfies.github.io" target="_blank">Nerfies</a> project page.
+            You are free to borrow the source code of this website, we just ask that you link back to this page in the footer. <br> This website is licensed under a <a rel="license"  href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- Statcounter tracking code -->
+  
+<!-- You can add a tracker to track page visits by creating an account at statcounter.com -->
+
+    <!-- End of Statcounter Code -->
+
+  </body>
+  </html>
+
+  <style>
+    .container_data_construct img {
+      width: 100%;
+      height: 100%;
+    }
+    .container_match_paradigm img {
+      width: 40%;
+      height: 40%;
+    }
+  </style>
