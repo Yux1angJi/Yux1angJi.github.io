@@ -3,7 +3,6 @@ layout: about
 ---
 
 
-
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
 Hi, there! I am Yuxiang Ji (姬煜翔).
