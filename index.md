@@ -22,7 +22,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
         <h4>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
         <div class="custom-text"><em>Under Review</em></div>
-        <div class="custom-text"><a href="https://yux1angji.github.io/game4loc"> [Project]</a> | <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a></div>
+        <div class="custom-text"><a href="https://yux1angji.github.io/game4loc">[Project]</a> | <a href="https://yux1angji.github.io/game4loc">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a> | <a href="game4loc/static/pdfs/game4loc.pdf">[PDF]</a> </div>
     </div>
 </div>
 
@@ -33,7 +33,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
         <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, ChuanQin, Liaoni Wu</div>
         <div class="custom-text"><em>Under Review</em></div>
-        <div class="custom-text"><a href="https://arxiv.org/abs/2406.00777">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/DIFF">[Github]</a></div>
+        <div class="custom-text"><a href="https://arxiv.org/abs/2406.00777">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/DIFF">[Github]</a> | <a href="assets/pdf/diff.pdf">[PDF]</a></div>
     </div>
 </div>
 
