@@ -1,37 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://yuxiang-ji.com/</loc>
-  <lastmod>2024-10-12T12:44:17+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>http://localhost:4000/yuxiangji/2018-01-02/github-page</loc>
+<lastmod>2018-01-02T00:00:00+08:00</lastmod>
 </url>
 <url>
-  <loc>https://yuxiang-ji.com/portfolio/</loc>
-  <lastmod>2024-10-12T12:44:17+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/yuxiangji/portfolio/</loc>
 </url>
 <url>
-  <loc>https://yuxiang-ji.com/game4loc/static/pdfs/game4loc.pdf</loc>
-  <lastmod>2024-10-12T12:44:17+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/yuxiangji/</loc>
 </url>
 <url>
-  <loc>https://yuxiang-ji.com/assets/pdf/diff.pdf</loc>
-  <lastmod>2024-10-12T12:44:17+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/yuxiangji/assets/pdf/CV_yuxiang_ji.pdf</loc>
+<lastmod>2024-11-29T17:16:06+08:00</lastmod>
 </url>
 <url>
-  <loc>https://yuxiang-ji.com/assets/pdf/Diffusion_Domain_Teacher.pdf</loc>
-  <lastmod>2024-10-12T12:44:17+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/yuxiangji/assets/pdf/Diffusion_Domain_Teacher.pdf</loc>
+<lastmod>2024-09-26T13:33:33+08:00</lastmod>
 </url>
-
-
+<url>
+<loc>http://localhost:4000/yuxiangji/assets/pdf/diff.pdf</loc>
+<lastmod>2024-09-25T20:40:23+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/yuxiangji/game4loc/</loc>
+<lastmod>2024-10-12T20:42:09+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/yuxiangji/game4loc/static/pdfs/game4loc.pdf</loc>
+<lastmod>2024-09-25T21:23:00+08:00</lastmod>
+</url>
 </urlset>
