@@ -12,7 +12,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 </span>
 
 <p style="text-align:center;">
-  <a href="./assets/pdf/CV_yuxiang_ji.pdf">CV</a> &nbsp;/&nbsp;
+  <a href="./assets/pdf/CV_YuxiangJi.pdf">CV</a> &nbsp;/&nbsp;
   <a href="mailto:yuxiangji@stu.xmu.edu.cn"><i class="fa-solid fa-envelope"></i></a> &nbsp;/&nbsp;
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=XmODrKRH5H4C"><i class="fa-brands fa-google-scholar"></i></a> &nbsp;/&nbsp;
   <a href="https://github.com/Yux1angJi"><i class="fa-brands fa-github"></i></a>
