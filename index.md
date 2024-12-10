@@ -23,12 +23,12 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 # Publications
 
 <!-- <div class="publications-container"> -->
-<div style="display: flex; align-items: center; margin-bottom: 20px">
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
     <img src="assets/img/GTA-UAV-demo.png" alt="Game4Loc" width="150" height="80">
     <div style="margin-left: 20px;">
         <h4>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
-        <div class="custom-text"><em>Under Review</em></div>
+        <div class="custom-text"><em>AAAI</em>, 2025</div>
         <div class="custom-text"><a href="https://yux1angji.github.io/game4loc">[Project]</a> | <a href="https://arxiv.org/abs/2409.16925">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a> | <a href="game4loc/static/pdfs/game4loc.pdf">[PDF]</a> </div>
     </div>
 </div>
