@@ -39,7 +39,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
     <div style="margin-left: 20px;">
         <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, ChuanQin, Liaoni Wu</div>
-        <div class="custom-text"><em>Under Review</em></div>
+        <div class="custom-text"><em>ICASSP</em>, 2025</div>
         <div class="custom-text"><a href="https://arxiv.org/abs/2406.00777">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/DIFF">[Github]</a> | <a href="assets/pdf/diff.pdf">[PDF]</a></div>
     </div>
 </div>
@@ -49,7 +49,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
     <div style="margin-left: 20px;">
         <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
         <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
-        <div class="custom-text"><em>ACM Multimedia (MM)</em>, 2024</div>
+        <div class="custom-text"><em>ACM MM</em>, 2024</div>
         <div class="custom-text"><a href="assets/pdf/Diffusion_Domain_Teacher.pdf">[PDF]</a></div>
     </div>
 </div>
