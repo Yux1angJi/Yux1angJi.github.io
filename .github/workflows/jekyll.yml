@@ -42,7 +42,7 @@ jobs:
         with:
           path: |
             Gemfile.lock
-          key: ${{ runner.os }}-bundler-${{ hashFiles('docs/Gemfile') }}
+          key: ${{ runner.os }}-bundler-${{ hashFiles('Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-bundler-
       - name: Install - Bundler
@@ -50,7 +50,6 @@ jobs:
           MAKE: make -j2
         working-directory: docs/
         run: |
-          bundle config set path vendor/bundle
           bundle install --jobs=4 --retry=3
           bundle clean
       - name: Check if already built
