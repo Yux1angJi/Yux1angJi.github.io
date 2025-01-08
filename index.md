@@ -1,5 +1,8 @@
 ---
-layout: about 
+layout: default
+title: Home
+pagination:
+  enabled: true
 ---
 
 
