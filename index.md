@@ -8,6 +8,7 @@ layout: about
 Hi, there! I am Yuxiang Ji (姬煜翔).
 I currently study as a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en).
 I am interested with computer vision and multimodal research for UAVs, especially the generation and utilization of synthetic images.
+Previously, I worked as an AI engineer at [Huawei Camera group](https://www.huawei.com/en/).
 I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof [Shuo Wang](https://phd-shuowang.weebly.com/).
 </span>
 
