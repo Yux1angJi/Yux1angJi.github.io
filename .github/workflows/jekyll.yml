@@ -33,17 +33,27 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Set ruby
-        id: ruby
-        run: |
-          ruby=${{ matrix.ruby }}
-          if [[ "$ruby" == [0-9]* ]]; then
-            ruby="ruby-$ruby"
-          fi
-          echo "ruby=$ruby" >> $GITHUB_OUTPUT
-          echo "archive=$ruby-${{ steps.platform.outputs.platform }}.tar.gz" >> $GITHUB_OUTPUT
+      - uses: ruby/setup-ruby@v1
         with:
-          bundler-cache: true
+          ruby-version: '3.2'
+      - name: Setup cache for Bundler
+        id: cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            docs/Gemfile.lock
+            docs/vendor/bundle
+          key: ${{ runner.os }}-bundler-${{ hashFiles('docs/Gemfile') }}
+          restore-keys: |
+            ${{ runner.os }}-bundler-
+      - name: Install - Bundler
+        env:
+          MAKE: make -j2
+        working-directory: docs/
+        run: |
+          bundle config set path vendor/bundle
+          bundle install --jobs=4 --retry=3
+          bundle clean
       - name: Check if already built
         run: '! curl -s -L --head --fail https://github.com/ruby/ruby-builder/releases/download/${{ steps.info.outputs.tag }}/${{ steps.ruby.outputs.archive }}'
       - name: Verify Ruby installation
