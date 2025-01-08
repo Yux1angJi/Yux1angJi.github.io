@@ -42,6 +42,8 @@ jobs:
           fi
           echo "ruby=$ruby" >> $GITHUB_OUTPUT
           echo "archive=$ruby-${{ steps.platform.outputs.platform }}.tar.gz" >> $GITHUB_OUTPUT
+        with:
+          bundler-cache: true
       - name: Check if already built
         run: '! curl -s -L --head --fail https://github.com/ruby/ruby-builder/releases/download/${{ steps.info.outputs.tag }}/${{ steps.ruby.outputs.archive }}'
       - name: Verify Ruby installation
