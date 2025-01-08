@@ -48,7 +48,6 @@ jobs:
       - name: Install - Bundler
         env:
           MAKE: make -j2
-        working-directory: docs/
         run: |
           bundle install --jobs=4 --retry=3
           bundle clean
