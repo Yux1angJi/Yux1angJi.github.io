@@ -43,6 +43,8 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y git
+          echo "Adding git to PATH"
+          export PATH=$PATH:/usr/bin
       - name: Install Ruby manually
         run: |
           git clone https://github.com/rbenv/ruby-build.git
