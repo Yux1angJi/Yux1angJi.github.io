@@ -45,7 +45,11 @@ jobs:
           key: ${{ runner.os }}-bundler-${{ hashFiles('Gemfile') }}
           restore-keys: |
             ${{ runner.os }}-bundler-
-      - name: Install - Bundler
+      - name: Install Bundler
+        run: |
+          gem install bundler:2.4.0 # 或最新稳定版本
+          bundler --version
+      - name: Install Gems
         env:
           MAKE: make -j2
         run: |
