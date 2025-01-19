@@ -65,6 +65,7 @@ body {
     color: #ff3860;
     width: fit-content;
     font-weight: bolder;
+    margin: 0 auto; /* 居中 */
 }
 
 .publication-authors {
