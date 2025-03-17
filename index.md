@@ -39,7 +39,7 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
     <img src="assets/img/diff.jpg" alt="DIFF" width="150" height="70">
     <div style="margin-left: 20px;">
         <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
-        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, ChuanQin, Liaoni Wu</div>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, Chuan Qin, Liaoni Wu</div>
         <div class="custom-text"><em>ICASSP</em>, 2025</div>
         <div class="custom-text"><a href="https://arxiv.org/abs/2406.00777">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/DIFF">[Github]</a> | <a href="assets/pdf/diff.pdf">[PDF]</a></div>
     </div>
