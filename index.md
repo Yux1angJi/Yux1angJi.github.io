@@ -5,11 +5,16 @@ layout: about
 
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-Hi, there! I am Yuxiang Ji (姬煜翔).
-I currently study as a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en).
-I am interested with computer vision and multimodal research for UAVs, especially the generation and utilization of synthetic images.
-Previously, I worked as an AI engineer at [Huawei Camera group](https://www.huawei.com/en/).
-I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof [Shuo Wang](https://phd-shuowang.weebly.com/).
+    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am currently interning at AMAP (Alibaba Group), advised by Yong Wang, and working on research related to MLLM agents RL.
+</span>
+
+<span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
+    Previously, I worked as an AI engineer at [Huawei Camera group](https://www.huawei.com/en/).
+    I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof [Shuo Wang](https://phd-shuowang.weebly.com/).
+</span>
+
+<span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
+    I am interested with multimodal research for UAVs and MLLM agent. Always happy to connect and collaborate on related research!
 </span>
 
 <p style="text-align:center;">
@@ -35,6 +40,17 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 </div>
 
 
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
+    <img src="assets/img/mmgeo.jpg" alt="MMGeo" width="110" height="80" style="margin-left: 20px;">
+    <div style="margin-left: 40px;">
+        <h4>MMGeo: Multimodal Compositional Geo-Localization for UAVs</h4>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
+        <div class="custom-text"><em>ICCV</em>, 2025</div>
+        <div class="custom-text"><a href="https://github.com/Yux1angJi/MMGeo">[Github]</a> | <a href="https://github.com/Yux1angJi/MMGeo">[PDF]</a></div>
+    </div>
+</div>
+
+
 <div style="display: flex; align-items: center; margin-bottom: 20px">
     <img src="assets/img/diff.jpg" alt="DIFF" width="150" height="70">
     <div style="margin-left: 20px;">
@@ -46,12 +62,22 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px">
+    <img src="assets/img/gdd.png" alt="GDD" width="150" height="70">
+    <div style="margin-left: 20px;">
+        <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
+        <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
+        <div class="custom-text"><em>CVPR</em>, 2025</div>
+        <div class="custom-text"><a href="https://arxiv.org/abs/2503.02101">[Arxiv]</a> | <a href="https://github.com/heboyong/Generalized-Diffusion-Detector">[Github]</a></div>
+    </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px">
     <img src="assets/img/ddt.png" alt="DDT" width="150" height="70">
     <div style="margin-left: 20px;">
         <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
         <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
         <div class="custom-text"><em>ACM MM</em>, 2024</div>
-        <div class="custom-text"><a href="assets/pdf/Diffusion_Domain_Teacher.pdf">[PDF]</a></div>
+        <div class="custom-text"><a href="https://www.arxiv.org/abs/2506.04211">[Arxiv]</a> | <a href="https://github.com/heboyong/Diffusion-Domain-Teacher">[Github]</a></div>
     </div>
 </div>
 <!-- </div> -->
@@ -86,14 +112,6 @@ I obtained my Master degree in Artificial Intelligence and Machine Learning from
             <a href="https://www.huawei.com/en/" target="_blank" style="text-decoration: underline;"><strong>Huawei</strong></a><br>
             AI Engineer, <i>Nov 2022 - Aug 2023</i><br>
             Camera AI algorithm, model compression
-        </td>
-    </tr>
-    <tr>
-        <td style="vertical-align: middle; padding-right: 30px;"><img src="assets/img/bytedance.svg" alt="ByteDance LOGO" width="60px" /></td>
-        <td style="vertical-align: middle;">
-            <a href="https://www.bytedance.com/en/" target="_blank" style="text-decoration: underline;"><strong>ByteDance</strong></a><br>
-            R&D Intern, <i>Jun 2020 - Jan 2021</i><br>
-            Back-end development, big data
         </td>
     </tr>
 </table>
