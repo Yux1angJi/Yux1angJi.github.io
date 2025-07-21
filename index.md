@@ -5,16 +5,16 @@ layout: about
 
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am currently interning at AMAP (Alibaba Group), advised by Yong Wang, and working on research related to MLLM agents RL.
+    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am also currently a research intern at AMap (Alibaba Group), where I work on MLLM agent reinforcement learning under the supervision of Yong Wang.
 </span>
 
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    Previously, I worked as an AI engineer at [Huawei Camera group](https://www.huawei.com/en/).
+    Previously, I worked as an AI engineer at Huawei Camera group.
     I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof [Shuo Wang](https://phd-shuowang.weebly.com/).
 </span>
 
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    I am interested with multimodal research for UAVs and MLLM agent. Always happy to connect and collaborate on related research!
+    I am interested with multimodal research for UAVs and MLLM agent. Always happy to connect and collaborate on related research — feel free to reach out.
 </span>
 
 <p style="text-align:center;">
