@@ -33,7 +33,7 @@ layout: about
     <img src="assets/img/Tree-GRPO-logo.png" alt="Tree-GRPO" width="80" height="80" style="margin-left: 35px;">
     <div style="margin-left: 55px;">
         <h4>Tree Search for LLM Agent Reinforcement Learning</h4>
-        <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu <br></div>
+        <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu<br></div>
         <div class="custom-text"><em>Preprint</em>, 2025</div>
         <div class="custom-text"><a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> | <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a></div>
     </div>
