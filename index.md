@@ -30,6 +30,17 @@ layout: about
 
 <!-- <div class="publications-container"> -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px">
+    <img src="assets/img/Tree-GRPO-logo.png" alt="Tree-GRPO" width="80" height="80" style="margin-left: 35px;">
+    <div style="margin-left: 55px;">
+        <h4>Tree Search for LLM Agent Reinforcement Learning</h4>
+        <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu <br></div>
+        <div class="custom-text"><em>Preprint</em>, 2025</div>
+        <div class="custom-text"><a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> | <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a></div>
+    </div>
+</div>
+
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
     <img src="assets/img/GTA-UAV-demo.png" alt="Game4Loc" width="150" height="80">
     <div style="margin-left: 20px;">
         <h4>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h4>
