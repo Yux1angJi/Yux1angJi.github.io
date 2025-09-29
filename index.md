@@ -30,7 +30,7 @@ layout: about
 
 <!-- <div class="publications-container"> -->
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px">
-    <img src="assets/img/Tree-GRPO-logo.png" alt="Tree-GRPO" width="80" height="80" style="margin-left: 35px;">
+    <img src="assets/img/Tree-GRPO-Logo.jpg" alt="Tree-GRPO" width="80" height="80" style="margin-left: 35px;">
     <div style="margin-left: 55px;">
         <h4>Tree Search for LLM Agent Reinforcement Learning</h4>
         <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu<br></div>
