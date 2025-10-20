@@ -5,7 +5,7 @@ layout: about
 
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am also currently a research intern at AMap (Alibaba Group), where I work on MLLM agent reinforcement learning under the supervision of Yong Wang.
+    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am also currently a research intern at AMAP (Alibaba Group), where I work on MLLM agent reinforcement learning with [Yong Wang](https://openreview.net/profile?id=~Yong_Wang6) and [Xiangxiang Chu](https://cxxgtxy.github.io/).
 </span>
 
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
@@ -35,7 +35,7 @@ layout: about
         <h4>Tree Search for LLM Agent Reinforcement Learning</h4>
         <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu<br></div>
         <div class="custom-text"><em>Preprint</em>, 2025</div>
-        <div class="custom-text"><a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> | <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a></div>
+        <div class="custom-text"><a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> | <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a> | <a href="https://mp.weixin.qq.com/s/7Ym9sK7ZguFYl56vqGlEHQ">[Reported by 机器之心]</a></div>
     </div>
 </div>
 
@@ -57,7 +57,7 @@ layout: about
         <h4>MMGeo: Multimodal Compositional Geo-Localization for UAVs</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
         <div class="custom-text"><em>ICCV</em>, 2025</div>
-        <div class="custom-text"><a href="https://github.com/Yux1angJi/MMGeo">[Github]</a> | <a href="https://github.com/Yux1angJi/MMGeo">[PDF]</a></div>
+        <div class="custom-text"><a href="https://github.com/Yux1angJi/MMGeo">[Github]</a> | <a href="assets/pdf/mmgeo.pdf">[PDF]</a></div>
     </div>
 </div>
 
