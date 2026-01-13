@@ -30,7 +30,7 @@ layout: about
 
 <!-- <div class="publications-container"> -->
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
+<div style="display: flex; align-items: flex-start; margin-bottom: 0px">
     <img src="assets/img/thinking-with-map-teaser.jpg" alt="Thinking-with-Map" style="display:block" width="150" height="120">
     <div style="margin-left: 20px;">
         <h4>Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</h4>
