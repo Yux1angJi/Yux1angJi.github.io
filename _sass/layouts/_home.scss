@@ -35,3 +35,43 @@
     margin-left: 0.8rem;
   }
 }
+
+.pub-entry {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.pub-thumb {
+  width: 150px;
+  min-width: 150px;
+  height: 90px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  img {
+    height: 90px;
+    width: auto;
+    max-width: 150px;
+    object-fit: contain;
+    margin: 0;
+    display: block;
+  }
+}
+
+.pub-info {
+  margin-left: 20px;
+  flex: 1;
+
+  h4 {
+    margin-top: 0;
+    margin-bottom: 4px;
+  }
+
+  img {
+    display: inline;
+    margin: 0;
+    vertical-align: middle;
+  }
+}

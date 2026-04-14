@@ -28,55 +28,83 @@ layout: about
 
 # Publications
 
-<!-- <div class="publications-container"> -->
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 0px">
-    <img src="assets/img/thinking-with-map-teaser.jpg" alt="Thinking-with-Map" style="display:block" width="150" height="120">
-    <div style="margin-left: 20px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/thinking-with-map-teaser.jpg" alt="Thinking-with-Map"></div>
+    <div class="pub-info">
         <h4>Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization</h4>
-        <div class="custom-text"><strong>Yuxiang Ji</strong>, Yong Wang†, Ziyu Ma, Yiming Hu, Hailang Huang, Xuecai Hu, Guanhua Chen, Liaoni Wu, Xiangxiang Chu<br></div>
-        <div class="custom-text"><em>Preprint</em>, 2026</div>
-        <div class="custom-text"><a href="https://amap-ml.github.io/Thinking-with-Map/">[Project]</a> | <a href="https://arxiv.org/abs/2601.05432">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Thinking-with-Map">[Github]</a> | <a href="https://huggingface.co/papers/2601.05432">[Huggingface]</a></div>
+        <div class="custom-text"><strong>Yuxiang Ji</strong>, Yong Wang†, Ziyu Ma, Yiming Hu, Hailang Huang, Xuecai Hu, Guanhua Chen, Liaoni Wu, Xiangxiang Chu</div>
+        <div class="custom-text"><em>ACL Findings</em>, 2026</div>
+        <div class="custom-text">
+        <a href="https://amap-ml.github.io/Thinking-with-Map/">[Project]</a> |
+        <a href="https://arxiv.org/abs/2601.05432">[Arxiv]</a> |
+        <a href="https://github.com/AMAP-ML/Thinking-with-Map">[Github]</a> |
+        <a href="https://huggingface.co/papers/2601.05432">[Huggingface]</a>
+        <a href="https://github.com/AMAP-ML/Thinking-with-Map" target="_blank"><img src="https://img.shields.io/github/stars/AMAP-ML/Thinking-with-Map?style=social" alt="GitHub stars"></a>
+        </div>
     </div>
 </div>
 
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
-    <img src="assets/img/Tree-GRPO-logo.jpg" alt="Tree-GRPO" width="80" height="80" style="margin-left: 35px;">
-    <div style="margin-left: 55px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/Tree-GRPO-logo.jpg" alt="Tree-GRPO"></div>
+    <div class="pub-info">
         <h4>Tree Search for LLM Agent Reinforcement Learning</h4>
-        <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu<br></div>
-        <div class="custom-text"><em>Preprint</em>, 2025</div>
-        <div class="custom-text"><a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> | <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> | <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a> | <a href="https://mp.weixin.qq.com/s/7Ym9sK7ZguFYl56vqGlEHQ">[Reported by 机器之心]</a></div>
+        <div class="custom-text"><strong>Yuxiang Ji</strong>, Ziyu Ma, Yong Wang†, Guanhua Chen, Xiangxiang Chu, Liaoni Wu</div>
+        <div class="custom-text"><em>ICLR</em>, 2026</div>
+        <div class="custom-text">
+        <a href="https://arxiv.org/abs/2509.21240">[Arxiv]</a> |
+        <a href="https://github.com/AMAP-ML/Tree-GRPO">[Github]</a> |
+        <a href="https://huggingface.co/papers/2509.21240">[Huggingface]</a> |
+        <a href="https://mp.weixin.qq.com/s/7Ym9sK7ZguFYl56vqGlEHQ">[Reported by 机器之心]</a>
+        <a href="https://github.com/AMAP-ML/Tree-GRPO" target="_blank"><img src="https://img.shields.io/github/stars/AMAP-ML/Tree-GRPO?style=social" alt="GitHub stars"></a>
+        </div>
     </div>
 </div>
 
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
-    <img src="assets/img/GTA-UAV-demo.png" alt="Game4Loc" width="150" height="80">
-    <div style="margin-left: 20px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/GTA-UAV-demo.png" alt="Game4Loc"></div>
+    <div class="pub-info">
         <h4>Game4Loc: A UAV Geo-Localization Benchmark from Game Data</h4>
-        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
-        <div class="custom-text"><em>AAAI</em>, <a><font color="#ff3860"><strong>Oral Presentation</strong></font></a>, 2025</div>
-        <div class="custom-text"><a href="https://yux1angji.github.io/game4loc">[Project]</a> | <a href="https://arxiv.org/abs/2409.16925">[Arxiv]</a> | <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a> | <a href="https://arxiv.org/pdf/2409.16925">[PDF]</a> | <a href="assets/pdf/Game4Loc_supp.pdf">[Supp]</a> </div>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu</div>
+        <div class="custom-text"><em>AAAI</em>, <span style="color: #ff3860;"><strong>Oral Presentation</strong></span>, 2025</div>
+        <div class="custom-text">
+        <a href="https://yux1angji.github.io/game4loc">[Project]</a> |
+        <a href="https://arxiv.org/abs/2409.16925">[Arxiv]</a> |
+        <a href="https://github.com/Yux1angJi/GTA-UAV">[Github]</a> |
+        <a href="https://arxiv.org/pdf/2409.16925">[PDF]</a> |
+        <a href="assets/pdf/Game4Loc_supp.pdf">[Supp]</a>
+        <a href="https://github.com/Yux1angJi/GTA-UAV" target="_blank"><img src="https://img.shields.io/github/stars/Yux1angJi/GTA-UAV?style=social" alt="GitHub stars"></a>
+        </div>
     </div>
 </div>
 
-
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px">
-    <img src="assets/img/mmgeo.jpg" alt="MMGeo" width="110" height="80" style="margin-left: 20px;">
-    <div style="margin-left: 40px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/mmgeo.jpg" alt="MMGeo"></div>
+    <div class="pub-info">
         <h4>MMGeo: Multimodal Compositional Geo-Localization for UAVs</h4>
-        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu <br></div>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Zhuoyue Tan, Liaoni Wu</div>
         <div class="custom-text"><em>ICCV</em>, 2025</div>
-        <div class="custom-text"><a href="https://github.com/Yux1angJi/MMGeo">[Github]</a> | <a href="assets/pdf/mmgeo.pdf">[PDF]</a></div>
+        <div class="custom-text"><a href="https://github.com/Yux1angJi/MMGeo">[Github]</a> | <a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Ji_MMGeo_Multimodal_Compositional_Geo-Localization_for_UAVs_ICCV_2025_paper.pdf">[PDF]</a></div>
     </div>
 </div>
 
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/skillclaw_logo.png" alt="SkillClaw"></div>
+    <div class="pub-info">
+        <h4>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</h4>
+        <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
+        <div class="custom-text"><em>Technical Report</em>, 2026</div>
+        <div class="custom-text">
+        <a href="https://github.com/AMAP-ML/SkillClaw/">[Github]</a> |
+        <a href="https://arxiv.org/abs/2604.08377">[Arxiv]</a> |
+        <a href="https://huggingface.co/papers/2604.08377">[Huggingface]</a>
+        <a href="https://github.com/AMAP-ML/SkillClaw" target="_blank"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a>
+        </div>
+    </div>
+</div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px">
-    <img src="assets/img/diff.jpg" alt="DIFF" width="150" height="70">
-    <div style="margin-left: 20px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/diff.jpg" alt="DIFF"></div>
+    <div class="pub-info">
         <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Boyong He*, Chenyuan Qu, Zhuoyue Tan, Chuan Qin, Liaoni Wu</div>
         <div class="custom-text"><em>ICASSP</em>, 2025</div>
@@ -84,26 +112,28 @@ layout: about
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px">
-    <img src="assets/img/gdd.png" alt="GDD" width="150" height="70">
-    <div style="margin-left: 20px;">
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/fgt.jpg" alt="FGT"></div>
+    <div class="pub-info">
+        <h4>Boosting Domain Generalized and Adaptive Detection with Diffusion Models: Fitness, Generalization, and Transferability</h4>
+        <div class="custom-text">Boyong He, <strong>Yuxiang Ji</strong>, Zhuoyue Tan, Liaoni Wu</div>
+        <div class="custom-text"><em>ICCV</em>, Highlight, 2025</div>
+        <div class="custom-text">
+        <a href="https://arxiv.org/abs/2506.21042">[Arxiv]</a> |
+        <a href="https://github.com/heboyong/Fitness-Generalization-Transferability">[Github]</a>
+        </div>
+    </div>
+</div>
+
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/gdd.png" alt="GDD"></div>
+    <div class="pub-info">
         <h4>Generalized Diffusion Detector: Mining Robust Features from Diffusion Models for Domain-Generalized Detection</h4>
         <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
         <div class="custom-text"><em>CVPR</em>, 2025</div>
         <div class="custom-text"><a href="https://arxiv.org/abs/2503.02101">[Arxiv]</a> | <a href="https://github.com/heboyong/Generalized-Diffusion-Detector">[Github]</a></div>
     </div>
 </div>
-
-<div style="display: flex; align-items: center; margin-bottom: 20px">
-    <img src="assets/img/ddt.png" alt="DDT" width="150" height="70">
-    <div style="margin-left: 20px;">
-        <h4>Diffusion Domain Teacher: Diffusion Guided Domain Adaptive Object Detector</h4>
-        <div class="custom-text">Boyong He*, <strong>Yuxiang Ji*</strong>, Zhuoyue Tan, Liaoni Wu</div>
-        <div class="custom-text"><em>ACM MM</em>, 2024</div>
-        <div class="custom-text"><a href="https://www.arxiv.org/abs/2506.04211">[Arxiv]</a> | <a href="https://github.com/heboyong/Diffusion-Domain-Teacher">[Github]</a></div>
-    </div>
-</div>
-<!-- </div> -->
 
 # Education
 
