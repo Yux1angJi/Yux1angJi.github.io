@@ -26,6 +26,25 @@ layout: about
 
 <br/>
 
+# Project
+
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/skillclaw_logo.png" alt="SkillClaw"></div>
+    <div class="pub-info">
+        <h4>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</h4>
+        <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
+        <div class="custom-text"><em>Technical Report</em>, 2026</div>
+        <div class="custom-text">
+        <a href="https://github.com/AMAP-ML/SkillClaw/">[Github]</a> |
+        <a href="https://arxiv.org/abs/2604.08377">[Arxiv]</a> |
+        <a href="https://huggingface.co/papers/2604.08377">[Huggingface]</a>
+        <a href="https://github.com/AMAP-ML/SkillClaw" target="_blank"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a>
+        </div>
+    </div>
+</div>
+
+<br/>
+
 # Publications
 
 <div class="pub-entry">
@@ -88,21 +107,6 @@ layout: about
 </div>
 
 <div class="pub-entry">
-    <div class="pub-thumb"><img src="assets/img/skillclaw_logo.png" alt="SkillClaw"></div>
-    <div class="pub-info">
-        <h4>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</h4>
-        <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
-        <div class="custom-text"><em>Technical Report</em>, 2026</div>
-        <div class="custom-text">
-        <a href="https://github.com/AMAP-ML/SkillClaw/">[Github]</a> |
-        <a href="https://arxiv.org/abs/2604.08377">[Arxiv]</a> |
-        <a href="https://huggingface.co/papers/2604.08377">[Huggingface]</a>
-        <a href="https://github.com/AMAP-ML/SkillClaw" target="_blank"><img src="https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social" alt="GitHub stars"></a>
-        </div>
-    </div>
-</div>
-
-<div class="pub-entry">
     <div class="pub-thumb"><img src="assets/img/diff.jpg" alt="DIFF"></div>
     <div class="pub-info">
         <h4>Diffusion Features to Bridge Domain Gap for Semantic Segmentation</h4>
@@ -134,6 +138,8 @@ layout: about
         <div class="custom-text"><a href="https://arxiv.org/abs/2503.02101">[Arxiv]</a> | <a href="https://github.com/heboyong/Generalized-Diffusion-Detector">[Github]</a></div>
     </div>
 </div>
+
+<br/>
 
 # Education
 
