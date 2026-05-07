@@ -26,13 +26,13 @@ layout: about
 
 <br/>
 
-# Project
+# Projects
 
 <div class="pub-entry">
     <div class="pub-thumb"><img src="assets/img/skillclaw_logo.png" alt="SkillClaw"></div>
     <div class="pub-info">
         <h4>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</h4>
-        <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
+        <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang*, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
         <div class="custom-text"><em>Technical Report</em>, 2026</div>
         <div class="custom-text">
         <a href="https://github.com/AMAP-ML/SkillClaw/">[Github]</a> |
@@ -46,6 +46,15 @@ layout: about
 <br/>
 
 # Publications
+
+<div class="pub-entry">
+    <div class="pub-thumb"><img src="assets/img/ActGuide_logo.jpg" alt="ActGuide-RL"></div>
+    <div class="pub-info">
+        <h4>Learning Agentic Policy from Action Guidance</h4>
+        <div class="custom-text"><strong>Yuxiang Ji*</strong>, Zengbin Wang*, Yong Wang†, S. Yang, Z. Ma, G. Chen, Z. Sun, L. Wu, Xiangxiang Chu</div>
+        <div class="custom-text"><em>Under Review</em>, 2026</div>
+    </div>
+</div>
 
 <div class="pub-entry">
     <div class="pub-thumb"><img src="assets/img/thinking-with-map-teaser.jpg" alt="Thinking-with-Map"></div>
