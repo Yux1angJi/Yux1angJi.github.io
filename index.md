@@ -5,11 +5,11 @@ layout: about
 
 # About Me
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am also currently a research intern at AMAP (Alibaba Group), where I work on MLLM agent reinforcement learning with [Yong Wang](https://openreview.net/profile?id=~Yong_Wang6) and [Xiangxiang Chu](https://cxxgtxy.github.io/).
+    Hi, there! I am Yuxiang Ji (姬煜翔), a Ph.D. student in Xiamen University, supervised by Prof Liaoni Wu, and Prof [Yancheng You](https://scholar.google.com/citations?user=pz8Zmp0AAAAJ&hl=en). I am also currently a research intern at Dots Post-train (RedNote), where I work on CLI agent.
 </span>
 
 <span style="font-family: 'Helvetica Neue', sans-serif; font-size: 16px;">
-    Previously, I worked as an AI engineer at Huawei Camera group.
+    Previously, I was intern at AMAP (Alibaba Group), working on MLLM agent reinforcement learning with [Yong Wang](https://openreview.net/profile?id=~Yong_Wang6) and [Xiangxiang Chu](https://cxxgtxy.github.io/).
     I obtained my Master degree in Artificial Intelligence and Machine Learning from the University of Birmingham under the guidance of Prof [Shuo Wang](https://phd-shuowang.weebly.com/).
 </span>
 
@@ -33,7 +33,7 @@ layout: about
     <div class="pub-info">
         <h4>SkillClaw: Let Skills Evolve Collectively with Agentic Evolver</h4>
         <div class="custom-text">Ziyu Ma*, Shidong Yang*, <strong>Yuxiang Ji*</strong>, Xucong Wang*, Yong Wang†, Yiming Hu, Tongwen Huang, Xiangxiang Chu</div>
-        <div class="custom-text"><em>Technical Report</em>, 2026</div>
+        <div class="custom-text"><em>Arxiv</em>, 2026</div>
         <div class="custom-text">
         <a href="https://github.com/AMAP-ML/SkillClaw/">[Github]</a> |
         <a href="https://arxiv.org/abs/2604.08377">[Arxiv]</a> |
@@ -52,7 +52,7 @@ layout: about
     <div class="pub-info">
         <h4>Learning Agentic Policy from Action Guidance</h4>
         <div class="custom-text"><strong>Yuxiang Ji*</strong>, Zengbin Wang*, Yong Wang†, S. Yang, Z. Ma, G. Chen, Z. Sun, L. Wu, Xiangxiang Chu</div>
-        <div class="custom-text"><em>Under Review</em>, 2026</div>
+        <div class="custom-text"><em>NeurIPS</em>, 2026</div>
         <div class="custom-text">
         <a href="https://arxiv.org/abs/2605.12004">[Arxiv]</a> |
         <a href="https://github.com/AMAP-ML/ActGuide-RL">[Github]</a>
